@@ -1,0 +1,2 @@
+# kana
+Simple flashcard application
